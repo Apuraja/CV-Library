@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Homepage"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="27.741">
+  <properties />
+  
+  
+            <testcase name="doLogin" time="27.741" classname="uk.co.library.testsuit.Dataset" />
+      
+</testsuite>
